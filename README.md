@@ -1,4 +1,5 @@
 # Ludo-Game-by-PYTHON
+
 A Ludo Game developed in Python is a digital recreation of the popular board game, where players roll dice and move their tokens to reach the goal while competing against AI or other players
 
 Project Initialization:
@@ -58,6 +59,16 @@ Documentation:
 Added a README.md file to the repository, providing an overview of the project.
 
 Described the game's objective, how to run the game, and any dependencies required.
+
+## How to Run the Game
+
+To start the Ludo game, open a terminal and run the following command:
+
+```
+python "c:\Users\MSI\OneDrive\Documents\GitHub\Ludo-Game-by-PYTHON\Ludo-Game-in-Python-master\run.py"
+```
+
+Make sure you have Python installed on your system. This command will launch the game in your terminal.
 
 Version Control:
 
